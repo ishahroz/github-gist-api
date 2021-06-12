@@ -7,7 +7,8 @@ const { Octokit } = require("@octokit/core");
 
 function App() {
 
-  const [octokit] = useState(new Octokit({ auth: `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` }));
+  // PLEASE ENTER OAUTH TOKEN HERE
+  const [octokit] = useState(new Octokit({ auth: `ADD YOUR PERSONAL TOKEN HERE` }));
 
   const [userName, setUserName] = useState("");
   const [gistList, setGistList] = useState([]);
