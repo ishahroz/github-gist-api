@@ -1,0 +1,2 @@
+(this["webpackJsonpgithub-gist-api"]=this["webpackJsonpgithub-gist-api"]||[]).push([[60],{153:function(t,i,s){"use strict";function n(t){t.languages.ini={comment:/^[ \t]*[;#].*$/m,selector:/^[ \t]*\[.*?\]/m,constant:/^[ \t]*[^\s=]+?(?=[ \t]*=)/m,"attr-value":{pattern:/=.*/,inside:{punctuation:/^[=]/}}}}t.exports=n,n.displayName="ini",n.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_ini.33a0e0f1.chunk.js.map
